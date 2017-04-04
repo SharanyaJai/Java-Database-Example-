@@ -1,0 +1,16 @@
+5,Optical input device that interprets pencil marks on paper ___,a. O.M.R,b. Punch card reader,c. Optical scanners,d. Magnetic tape,a
+6,Most important advantage of an IC is its,a. Easy replacement,b.reliability,c. Less cost,d. Low power,b
+7,Data division is the third division of a _____ program.,a. COBOL,b. BASIC,c. PASCAL,d. FORTH,b
+8,What is used in microwave oven?,a. Microwaves,b. Nanowaves,c. Radiowaves,d. IR,a
+9,Wich among these is an Input device?,a. Printer, b. Scanner,c. Monitor,d. Speaker,b
+10,Charles Babbage invented _____?,a. TV,b. Mobile,c. Printer,d. Computer,d
+11,Mobiles replaced _____?,a. Pager,b. Radio, c. Television, d. Speakers,a
+12,What is coded ___?,a. Hardware,b. CPU,c. Software,d. Disk,c
+13,The memory of CPU is measured in _______.,a. megabytes,b. gigabytes,c. megahertz,d. petabytes,b
+14,C is a _______ language?,a.OOP, b.Procedural,c.Structural,d.Application Development,b
+15,Wich among these is an Output device?,a. Printer, b. Scanner,c. Mouse,d. Keyboard,a
+16,Wifi replaced _____?,a. Mobile,b. Carrier, c. Television, d. Wired Internet,d
+17,What causes program to fail?,a. error,b. loops,c. packages,d. bundles,a
+18,What supports concurrency?,a.Exception,b. GUI,c. Threads,d. Dynamic Programming,c
+19,Pendrives are used for?,a. Speed,b. Creativity,c. Storage,d. Repair,c
+20,What does the Monitor do?a. Display,b. Process,c. Storage, d. Input data,a
